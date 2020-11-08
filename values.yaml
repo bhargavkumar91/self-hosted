@@ -1,7 +1,7 @@
 gitpod:
   # This field must be set to your domain name. Leaving it set to its default value will result in
   # a non-functional installation.
-  hostname: your-domain.com
+  hostname: bytexl.com
 
   # If you have a static IP that your domain resolves to, set it here.
   # Leaving this field set to its default value is fine. Kubernetes will assign you an IP address
